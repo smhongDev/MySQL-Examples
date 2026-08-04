@@ -1,2 +1,7 @@
-# My SQL Examples
-Simple C# example to connect and query a MySQL 
+안녕하세요? 모블 교육센터의 SQL강의를 하고 있는 홍상민입니다.
+
+강의 자료는 네이버의 MBox의 아래 링크에서 받으실 수 있습니다.
+https://naver.me/xXnHDOwl
+
+C#으로 작성된 소스코드는 github의 현재 프로젝트에서 받으실 수 있으며
+2가지의 예제 파일이 공유되어 있습니다.
